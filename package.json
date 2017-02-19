@@ -1,0 +1,14 @@
+{
+  "name": "node-cookbook",
+  "version": "1.0.0",
+  "description": "repository that follows along with the node cookbook by David Mark Clements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxwell douglas oroark",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "1.1.3"
+  }
+}
